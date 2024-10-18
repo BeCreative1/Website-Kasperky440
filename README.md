@@ -1,3 +1,5 @@
+![Logo](./workspace/public/favicon.ico)
+
 # Intent
 This website was developed in student programming assosiation called BeCreative. Website was created for our client from Czech Republic, who wanted to create website for his apartment in Kasperky mountains to help him with marketing and attracting more tenants.
 
